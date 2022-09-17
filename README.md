@@ -1,6 +1,6 @@
 ## NLW eSports - Trilha Explorer
 
-    ![preview](./github/preview.png)
+    ![preview](./.github/preview.png)
 
 Projeto contruido no evento Next Level Week da Rocketseat.
 
